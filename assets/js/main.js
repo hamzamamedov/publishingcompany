@@ -13,3 +13,17 @@ function closebar() {
   faxmark.style.display = "none";
 
 }
+
+// ! js lesson 1 >>>>>>
+{
+  let a = 5;
+  let b = 6;
+  console.log(++a + "," + --b);
+}
+
+{
+  let a = 5;
+  let b = 6;
+  let k = ++a + "," + --b;
+  console.log(k);
+}
